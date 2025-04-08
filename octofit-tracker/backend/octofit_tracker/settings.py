@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-g&44ug3j9#g)l96qtp_!2je85)89m4$uv+#u908crzfxu&fue2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['curly-journey-wrvwvjj6qrxj3vjx-8000.app.github.dev', 'localhost']
 
 
 # Application definition
